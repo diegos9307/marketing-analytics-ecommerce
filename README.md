@@ -46,3 +46,40 @@ All queries are available in the `/sql` folder.
 - Revenue shows steady growth, with stronger performance in recent months, suggesting potential seasonal demand.
 - Outerwear & Coats is the top-performing category, indicating strong demand for high-value products.
 - Outerwear products consistently rank among top performers across all seasons, indicating that demand extends beyond traditional winter periods and supporting always-on marketing strategies.
+
+## 📊 Dashboard
+
+The final dashboard was built in Looker Studio to visualise trends and support decision-making.
+
+### Overview
+![Dashboard](images/dashboard.jpg)
+
+### Category & Product Analysis
+![Category](images/category.jpg)
+
+### Seasonality Analysis
+![Seasonality](images/seasonality.jpg)
+
+## 💡 Business Recommendations
+
+Based on the analysis:
+
+- Maintain continuous marketing investment in high-value categories such as outerwear.
+- Shift from seasonal campaigns to **always-on strategies** for products with consistent demand.
+- Prioritise premium products that generate high revenue despite lower sales volume.
+
+- ## 🚀 Key Skills Demonstrated
+
+- SQL (joins, aggregations, window functions)
+- Data analysis & interpretation
+- Data visualisation (Looker Studio)
+- Business insight generation
+- Marketing analytics thinking
+
+## 📌 Project Outcome
+
+This project demonstrates the ability to:
+
+- Work with real-world datasets
+- Translate data into actionable insights
+- Support business decisions through analytics
